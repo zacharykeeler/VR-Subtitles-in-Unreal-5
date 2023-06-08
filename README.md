@@ -8,6 +8,8 @@ We conducted a study comparing three different subtitle presentation methods in 
 
 A detailed PDF report of our results is available [here](Subtitles_in_a_Virtual_Environment_Final_Report.pdf).
 
+Source code and compiled Quest 2 apk binary are available if requested.
+
 ## Demo Video
 
 Check out our project overview video on YouTube:
